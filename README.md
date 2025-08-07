@@ -26,7 +26,7 @@
 First, run the following command at your prompt to clone the GitHub repository:
 
 ```
-git clone https://github.com/lucasspartacus/Arms.git
+git clone https://github.com/lucasspartacus/amzon_scraper.git
 ```
 Enter the backend folder. Then run the command below to  install all dependencies:
 ```
@@ -52,4 +52,4 @@ In the application, you can search for a JSON file that contains the correct for
 
 Exemplo of a seacr using the keyword 'ps5':
 
-<img width="1143" height="733" alt="Image" src="https://github.com/user-attachments/assets/2fc12ce4-c900-4d4d-b9e2-d3449dcc0b5f" />
+<img width="646" height="829" alt="Image" src="https://github.com/user-attachments/assets/695c93cb-da8b-4f35-9c2a-2f71dbbb4737" />
