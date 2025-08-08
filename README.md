@@ -48,7 +48,7 @@ npm run dev
 
 Go to your browser and navigate to http://localhost:5173/ to use the web application.
 
-In the application, you can search for a JSON file that contains the correct format for the user. This file will be analyzed, and the user's skills, experience, and values will be passed as a prompt to Gemini, which will analyze the technical and cultural criteria to verify whether the candidate's profile fits the company. Returning a feedback screen with all users with a green border and text if they were approved, and red if not.
+In this application, you can search for products by typing their name and clicking the search button. The application will perform a search on Amazon using the keyword provided, and then display products that match the search term. Displaying there names, rating review and product image.
 
 Exemplo of a seacr using the keyword 'ps5':
 
